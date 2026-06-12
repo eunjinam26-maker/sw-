@@ -8,5 +8,5 @@
   <img width="1843" height="790" alt="image" src="https://github.com/user-attachments/assets/6652adb1-19c8-46b5-8361-013fbdf598a0" />
 - 데모
   {데모보기] (https://eunjinam26-maker.github.io/sw-/)
--아직 안 되는 것
+- 아직 안 되는 것
 기록할 때 이미지를 URL로 삽입하면 아카이브로 기록을 볼 때 이미지가 뜨지 않음.
